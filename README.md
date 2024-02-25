@@ -4,8 +4,6 @@ Created by [wwbadcodeww]. So Crows can be proud of us.
 
 # Capture The Flag
 
-[![ContentDB](https://content.minetest.net/packages/rubenwardy/capturetheflag/shields/downloads/)](https://content.minetest.net/packages/rubenwardy/capturetheflag/)  [![Build status](https://github.com/MT-CTF/capturetheflag/workflows/build/badge.svg)](https://github.com/MT-CTF/capturetheflag/actions)
-
 
 ## Installation
 
